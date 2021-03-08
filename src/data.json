@@ -1,0 +1,2742 @@
+[
+  {
+    "term": "Biomimiikka, Biomimics",
+    "failed": 0,
+    "explanation": "Luonnossa esiintyvien rakenteiden ja ominaisuuksien hyödyntämistä esimerkiksi rakennusten ja laitteiden suunnittelussa.",
+    "pages": [
+      8
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "42696f6d696d69696b6b612c2042696f6d696d696373"
+  },
+  {
+    "term": "Bioteknologia, Biotechnology",
+    "failed": 0,
+    "explanation": "Eliöitä, eläviä soluja tai niiden osia hyödyntävä tekniikka.",
+    "pages": [
+      9
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "42696f74656b6e6f6c6f6769612c2042696f746563686e6f6c6f6779"
+  },
+  {
+    "term": "Mikrobi, Microbe",
+    "failed": 0,
+    "explanation": "Pieneliö, jonka näkemiseen tarvitaan mikroskooppi. Mikrobeihin kuuluvat virukset, bakteerit, arkeonit, alkueläimet, yksisoluiset !evät, homeet ja hiivat.",
+    "pages": [
+      11
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4d696b726f62692c204d6963726f6265"
+  },
+  {
+    "term": "Mikrobiologia, Microbiology",
+    "failed": 0,
+    "explanation": "Biologian osa-alue, jonka tutkimuskohteena ovat mikrobit.",
+    "pages": [
+      11
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4d696b726f62696f6c6f6769612c204d6963726f62696f6c6f6779"
+  },
+  {
+    "term": "Modernbiotechnology",
+    "failed": 0,
+    "explanation": "moderni bioteknologia, Bioteknologiaa, jossa tutkitaan ja muokataan DNA:ta ja käytetään esimerkiksi nanotekniikkaa, kloonaamista ja kantasoluja.",
+    "pages": [
+      11
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4d6f6465726e62696f746563686e6f6c6f6779"
+  },
+  {
+    "term": "Systeemibiologia, Systemsbiology",
+    "failed": 0,
+    "explanation": "Biologian osa-alue, joka liittää tietotekniikan biologiseen tietoon tarjoten mandollisuuden nähdä ja käsitellä biologisia kokonaisuuksia. Systeemibiologia tarkastelee geenejä ja niiden tuottamia proteiineja sekä proteiinien vaikutuksia toisiinsa ja ympäristöönsä. Olennaista on systeemien matemaattinen mallintaminen.",
+    "pages": [
+      11
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "5379737465656d6962696f6c6f6769612c2053797374656d7362696f6c6f6779"
+  },
+  {
+    "term": "Synteettinenbiologia, Syntheticbiology",
+    "failed": 0,
+    "explanation": "Biologian monitieteinen osa-alue, jossa tutkitaan ja valmistetaan sellaisia toimivia kokonaisuuksia, joita ei esiinny luonnossa.",
+    "pages": [
+      12
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "53796e7465657474696e656e62696f6c6f6769612c2053796e74686574696362696f6c6f6779"
+  },
+  {
+    "term": "Arkeoni, Arcahea",
+    "failed": 0,
+    "explanation": "Tumattomiin kuuluva eliö, jonka solurakene on yksinkertainen: esimerkiksi tumakotelo ja kalvolliset soluelimet puuttuvat. Arkeonit muodostavat nykykäsityksen mukaan oman domeeninsa.",
+    "pages": [
+      15
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "41726b656f6e692c2041726361686561"
+  },
+  {
+    "term": "Bakteeri, Bacteria",
+    "failed": 0,
+    "explanation": "Tumattomiin kuuluva eliö, jonka solurakenne on yksinkertainen: esimerkiksi tumakotelo ja kalvolliset soluelimet puuttuvat.",
+    "pages": [
+      15
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "42616b74656572692c204261637465726961"
+  },
+  {
+    "term": "Domeeni, Domain",
+    "failed": 0,
+    "explanation": "Yksi eliöiden luokittelutapa on eliökunnan jako kolmeen domeeniin, jotka ovat bakteerien, arkeonien ja tumallisten eliöiden domeenit. Perusteet domeenijaolle on saatu geeni- ja molekyylitutkimuksista.",
+    "pages": [
+      15
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "446f6d65656e692c20446f6d61696e"
+  },
+  {
+    "term": "Tumaton, Procaryotic",
+    "failed": 0,
+    "explanation": "Solu, jossa ei ole tumakoteloa eikä kalvollisia soluelimiä, kuten mitokondrioita ja viherhiukkasia. Tumattomia soluja ovat bakteerien ja arkeonien solut.",
+    "pages": [
+      15
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "54756d61746f6e2c2050726f636172796f746963"
+  },
+  {
+    "term": "Patogeeninen, Pathogenic",
+    "failed": 0,
+    "explanation": "Tautia aiheuttava mikrobi. Esimerkiksi malarialoisio on patogeeninen.",
+    "pages": [
+      18
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "5061746f6765656e696e656e2c20506174686f67656e6963"
+  },
+  {
+    "term": "Toksiini, Toxin",
+    "failed": 0,
+    "explanation": "Jonkin eliön, kuten bakteerin, aineenvaihdunnan tuloksena syntynyt myrkyllinen aine.",
+    "pages": [
+      18
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "546f6b7369696e692c20546f78696e"
+  },
+  {
+    "term": "Mureiini, Murein",
+    "failed": 0,
+    "explanation": "Bakteerien soluseinän rakennusaine, joka koostuu sokereista ja aminohapoista.",
+    "pages": [
+      19
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4d75726569696e692c204d757265696e"
+  },
+  {
+    "term": "Soluhengityskalvosto, Respiratorymembrane",
+    "failed": 0,
+    "explanation": "Bakteerisolussa solukalvon poimuista muodostunut rakenne, jossa soluhengitysreaktiot tapahtuvat. Rakenne esiintyy vain aerobisilla bakteereilla.",
+    "pages": [
+      19
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "536f6c7568656e67697479736b616c766f73746f2c2052657370697261746f72796d656d6272616e65"
+  },
+  {
+    "term": "Bacterialphotosyntheticmembrane",
+    "failed": 0,
+    "explanation": "yhteyttämiskalvosto, Bakteerisolussa solukalvon poimuista muodostunut rakenne, jossa fotosynteesireaktiot tapahtuvat.",
+    "pages": [
+      19
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "42616374657269616c70686f746f73796e7468657469636d656d6272616e65"
+  },
+  {
+    "term": "Gramvärjäys, Gram'sstaining",
+    "failed": 0,
+    "explanation": "Värjäysmenetelmä, jota käytetään apuna bakteerien tunnistuksessa. Värjäytynnisen lopputulos perustuu bakteerin soluseinän rakenteeseen.",
+    "pages": [
+      20
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4772616d76c3a4726ac3a479732c204772616d2773737461696e696e67"
+  },
+  {
+    "term": "Gramvärjäys, Gram'sstaining",
+    "failed": 0,
+    "explanation": "Värjäysmenetelmä, jota käytetään apuna bakteerien tunnistuksessa. Värjäytynnisen lopputulos perustuu bakteerin soluseinän rakenteeseen.",
+    "pages": [
+      20
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4772616d76c3a4726ac3a479732c204772616d2773737461696e696e67"
+  },
+  {
+    "term": "Puhdasviljelmä",
+    "failed": 0,
+    "explanation": "Yhdestä bakteerisolusta muodostettu bakteeriviljelmä, jossa kaikki bakteerit ovat samaa kantaa.",
+    "pages": [
+      21
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "50756864617376696c6a656c6dc3a4"
+  },
+  {
+    "term": "Lepoitiö, Restspore",
+    "failed": 0,
+    "explanation": "Bakteerien selviytymiskeino epäedullisissa olosuhteissa. Lepoitiövaiheessa bakteerin aineenvaihdunta on erittäin vähäistä.",
+    "pages": [
+      22
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4c65706f697469c3b62c205265737473706f7265"
+  },
+  {
+    "term": "Operoni, Operone",
+    "failed": 0,
+    "explanation": "Kokonaisuus, jossa usean geenin koodaavat alueet sijaitsevat yhden säätelyalueen perässä. Tyypillistä bakteerisoluille. Sen avulla bakteeri pystyy tuottamaan tehokkaasti tarvittavan määrän yhteen aineenvaihduntareittiin tarvittavia entsyymejä.",
+    "pages": [
+      23
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4f7065726f6e692c204f7065726f6e65"
+  },
+  {
+    "term": "Haploidinen, Haploidi, Haploid",
+    "failed": 0,
+    "explanation": "Solu, jolla on yksinkertainen kromosomisto. Tumallisilla eliöillä haploidisia soluja ovat meioosin tuloksena syntyneet sukusolut. Tumattomat eliöt ovat hapioideja.",
+    "pages": [
+      24
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4861706c6f6964696e656e2c204861706c6f6964692c204861706c6f6964"
+  },
+  {
+    "term": "Mikrobilääke, Antimicrobialmedicine",
+    "failed": 0,
+    "explanation": "Mikrobin aiheuttaman sairauden hoitoon käytetty lääke. Se joko estää mikrobin kasvun ja lisääntymisen tai tuhoaa sen. Esimerkiksi antibiootit ovat bakteerien aiheuttamien tautien hoitoon käytettäviä mikrobilääkkeitä.",
+    "pages": [
+      26
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4d696b726f62696cc3a4c3a46b652c20416e74696d6963726f6269616c6d65646963696e65"
+  },
+  {
+    "term": "Sairaalabakteeri, Hospitalacquiredinfection",
+    "failed": 0,
+    "explanation": "Sairaalassa syntynyt bakteeri, joka on vastustuskykyinen monelle antibiootille. Esimerkiksi MRSA eli metisilliinire bakteeri. Staphylococcus aureus-bakteeri",
+    "pages": [
+      26
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "5361697261616c6162616b74656572692c20486f73706974616c6163717569726564696e66656374696f6e"
+  },
+  {
+    "term": "Alkueläin, Protozoa",
+    "failed": 0,
+    "explanation": "Eläinsolun kaltainen mikrobi. Esimerkiksi malarialoisio.",
+    "pages": [
+      36
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "416c6b75656cc3a4696e2c2050726f746f7a6f61"
+  },
+  {
+    "term": "Malaria, Malaria",
+    "failed": 0,
+    "explanation": "Alkueläimiin kuuluvan malarialoision aiheuttama vakava kuumetauti, joka hoitamattomana voi johtaa kuolemaan. Malarialoisiot leviävät hyttysen piston välityksellä.",
+    "pages": [
+      37
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4d616c617269612c204d616c61726961"
+  },
+  {
+    "term": "Kasviplankton, Phytoplankton",
+    "failed": 0,
+    "explanation": "Kasviplanktoniin kuuluvat mikroskooppiset levät ja syanobakteerit, vaikka ne eivät olekaan kasveja. Levät kuuluvat alkueliöiden kuntaan ja syanobakteerit bakteerikuntaan.",
+    "pages": [
+      39
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4b61737669706c616e6b746f6e2c20506879746f706c616e6b746f6e"
+  },
+  {
+    "term": "Yksisoluinenlevä, Unicellularalgae",
+    "failed": 0,
+    "explanation": "Yksi mikrobien ryhmistä. Yksisoluiset levät kuuluvat alkueliöiden kuntaan ja ovat omavaraisia. Niiden fotosynteesireaktiot tapahtuvat viherhiukkasissa. Tärkeitä tuottajia vesistöissä.",
+    "pages": [
+      39
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "596b7369736f6c75696e656e6c6576c3a42c20556e6963656c6c756c6172616c676165"
+  },
+  {
+    "term": "Hiivasieni, Yeast",
+    "failed": 0,
+    "explanation": "Mikrobeihin luettavia mikroskooppisia sieniä. Pystyvät elämään sekä aerobisissa (hapellisissa) että anaerobisissa (hapettomissa) oloissa. Esimerkiksi leivinhiiva.",
+    "pages": [
+      41
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "48696976617369656e692c205965617374"
+  },
+  {
+    "term": "Homesieni, Mould",
+    "failed": 0,
+    "explanation": "Rihmamaisia hajottaja- ja loissieniä, jotka kasvavat peitteinä kasvualustassaan.",
+    "pages": [
+      41
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "486f6d657369656e692c204d6f756c64"
+  },
+  {
+    "term": "Kitiini, Chitin",
+    "failed": 0,
+    "explanation": "Sienten soluseinän rakennusaine, kemialliselta rakenteeltaan polysakkaridi.",
+    "pages": [
+      41
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4b697469696e692c2043686974696e"
+  },
+  {
+    "term": "Piasmidi, Plasmid19, ",
+    "failed": 0,
+    "explanation": "Bakteeri- ja hiivasolussa olevia pieniä rengasmaisia DNA-molekyylejä, jotka jakautuvat kromosomista erillään. Bioteknologiassa plasmideja hyödynnetään vektoreina geenisiirroissa.",
+    "pages": [
+      41
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "506961736d6964692c20506c61736d696431392c20"
+  },
+  {
+    "term": "Nukleiinihappo, Nucleicacid",
+    "failed": 0,
+    "explanation": "Informaatiota sisältävä orgaaninen molekyyli, joita ovat DNA (deoksiribonukleiinihappo) ja RNA (ribonukleiinihappo). Ne ovat muodostuneet nukleotideistä.",
+    "pages": [
+      47
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4e756b6c6569696e69686170706f2c204e75636c65696361636964"
+  },
+  {
+    "term": "Vaippa, Envelope",
+    "failed": 0,
+    "explanation": "Isäntäsolun solukalvosta peräisin oleva lipidikalvo, joka ympäröi virusta.",
+    "pages": [
+      47
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "5661697070612c20456e76656c6f7065"
+  },
+  {
+    "term": "Zoonoosi, Zoonosis30, ",
+    "failed": 0,
+    "explanation": "1 laimestä ihmiseen ja päinvastoin siirtyvä tauti, esim. vesikauhu tai pernarutto.",
+    "pages": [
+      48
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "5a6f6f6e6f6f73692c205a6f6f6e6f73697333302c20"
+  },
+  {
+    "term": "Viruslääke, Antiviraldrug",
+    "failed": 0,
+    "explanation": "Viruksen aiheuttaman taudin hoitoon tarkoitettu lääke. Vaikutus perustuu esimerkiksi siihen, että se estää viruksen lisääntymisen isäntäsolussa tai uusien virusten irtoamisen isäntäsolun solukalvosta.",
+    "pages": [
+      51
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "56697275736cc3a4c3a46b652c20416e7469766972616c64727567"
+  },
+  {
+    "term": "Pandemia, Pandemia",
+    "failed": 0,
+    "explanation": "Tautiepidemia, joka leviää maanosasta toiseen Esimerkiksi espanjantauti.",
+    "pages": [
+      52
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "50616e64656d69612c2050616e64656d6961"
+  },
+  {
+    "term": "Transposoni, Hyppivägeeni, Trasposon",
+    "failed": 0,
+    "explanation": "DNA:n jakso, jolla on kyky siirtyä kromosomistossa paikasta toiseen. Usein alun perin viruksen mukana siirtynyt geeni, joka on liittynyt osaksi isäntälajin perimää.",
+    "pages": [
+      53
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "5472616e73706f736f6e692c20487970706976c3a46765656e692c2054726173706f736f6e"
+  },
+  {
+    "term": "Entsyymi, Enzyme",
+    "failed": 0,
+    "explanation": "Proteiini, joka katalysoi jotain biokemiallista reaktiota muuttumatta pysyvästi reaktiossa itse.",
+    "pages": [
+      60
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "456e747379796d692c20456e7a796d65"
+  },
+  {
+    "term": "Alkoholikäyminen, Alcoholicfermentation41, ",
+    "failed": 0,
+    "explanation": "Reaktio, jossa glukoosista syntyy etanolia, vettä ja hiilidioksidin sekä vapautuu vähäinen määrä energiaa.",
+    "pages": [
+      64
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "416c6b6f686f6c696bc3a4796d696e656e2c20416c636f686f6c69636665726d656e746174696f6e34312c20"
+  },
+  {
+    "term": "Funktionaalinenelintarvike, Functionalfood",
+    "failed": 0,
+    "explanation": "Tavalliseen ruokavalioon kuuluva elintarvike, johon on lisätty terveyttä edistäviä aineitti tai mikrobeja, joilla on tieteellisin tutkimuksin osoitettu olevan myönteisiä vaikutuksia terveyteen.",
+    "pages": [
+      65
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "46756e6b74696f6e61616c696e656e656c696e74617276696b652c2046756e6374696f6e616c666f6f64"
+  },
+  {
+    "term": "Biologinenpuhdistus, Biologicaltreatments",
+    "failed": 0,
+    "explanation": "Jätevesien puhdistusmenetelmiä, joissa bakteerien ja alkueläinten avulla hajotetaan jätevesien sisältämiä orgaanisia yhdisteitä. Biopuhdistus voi myös käsittää maaperän puhdistamisen eliöiden avulla.",
+    "pages": [
+      66
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "42696f6c6f67696e656e7075686469737475732c2042696f6c6f676963616c74726561746d656e7473"
+  },
+  {
+    "term": "Geneticengineering, Genemanipulation11, ",
+    "failed": 0,
+    "explanation": "geenitekniikka, Perintöaineksen eristämistä, analysointia, muokkaamista ja siirtämistä muihin eliöihin tai soluihin.",
+    "pages": [
+      69
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "47656e65746963656e67696e656572696e672c2047656e656d616e6970756c6174696f6e31312c20"
+  },
+  {
+    "term": "Geneticengineering, Genemanipulation11, ",
+    "failed": 0,
+    "explanation": "geenitekniikka, Perintöaineksen eristämistä, analysointia, muokkaamista ja siirtämistä muihin eliöihin tai soluihin.",
+    "pages": [
+      69
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "47656e65746963656e67696e656572696e672c2047656e656d616e6970756c6174696f6e31312c20"
+  },
+  {
+    "term": "Dna-poiymeraasi, Dna-polymerase",
+    "failed": 0,
+    "explanation": "DNA-kaksoisjuostetta syntetisoiva eli rakentava entsyymi. DNA-polymeraasi käyttää mallina vastakkaissuuntaista juostetta, ja se kykenee rakentamaan uutta juostetta vain yhteen suuntaan (3' -> 5'). DNA-polymeraaseja on useita, ja niitä tarvitaan solunjakautumisessa ja vauriot UNA:n korjauksessa.",
+    "pages": [
+      71
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "446e612d706f69796d6572616173692c20446e612d706f6c796d6572617365"
+  },
+  {
+    "term": "Iiittäjäentsyymi, Ligase",
+    "failed": 0,
+    "explanation": "Geenitekniikan työkaluna käytettävä‘entsyymi, joka liittää DNA-molekyylin vapaat päät toisiinsa.",
+    "pages": [
+      72
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4969697474c3a46ac3a4656e747379796d692c204c6967617365"
+  },
+  {
+    "term": "Cas-entsyymi, Cas-enzyme25, ",
+    "failed": 0,
+    "explanation": "Bakteerien entsyymi, joka vastaa bakteerien immunologisesta muistista bakteriofageja vastaan. Tunnistaa virus-DNA:n ja pilkkoo sen palasiksi, minkä seurauksena viruksen lisääntyminen estyy. Käytetään crispr-tekniikassa, kun halutaan esimerkiksi muokata geenejä tai tehdä niitä toimintakyvyttömiksi.",
+    "pages": [
+      73
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4361732d656e747379796d692c204361732d656e7a796d6532352c20"
+  },
+  {
+    "term": "Käänteiskopioijaentsyymi, Reversetranscriptase49, ",
+    "failed": 0,
+    "explanation": "Entsyymi, jonka avulla yksijuosteinen lähetti- RNA saadaan käännettyä vastin-DNA:ksi (komplementaariseksi eli cDNA:ksi). Käytetään bioteknologiassa esimerkiksi silloin, kun halutaan siirtää tumallisen eliön geeni bakteeriin.",
+    "pages": [
+      74
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4bc3a4c3a46e746569736b6f70696f696a61656e747379796d692c20526576657273657472616e73637269707461736534392c20"
+  },
+  {
+    "term": "Vastin-dna, Cdna, Complementarydna",
+    "failed": 0,
+    "explanation": "Lähetti-RNA:n emäsjärjestyksen perusteella kopioitu DNA (cDNA). Se sisältää vain geenien eksonit.",
+    "pages": [
+      74
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "56617374696e2d646e612c2043646e612c20436f6d706c656d656e74617279646e61"
+  },
+  {
+    "term": "Antibioottivalinta, Antibioticselection",
+    "failed": 0,
+    "explanation": "Menetelmä, jonka avulla etsitään tietylle antibiootille vastustuskykyisiä bakteereita. Geeninsiirrossa voidaan käyttää apugeeninä antibioottiresistenssin geeniä. Sen perusteella tehtävän antibioottivalinnan avulla löydetään bakteerit, joissa siirtogeeni on.",
+    "pages": [
+      75
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "416e746962696f6f74746976616c696e74612c20416e746962696f74696373656c656374696f6e"
+  },
+  {
+    "term": "Yhdistelmä-dna-tekniikka, Recombinantdnatechnique",
+    "failed": 0,
+    "explanation": "Geenitekniikan menetelmä, jossa kaksi DNA-juostetta liitetään yhteen, jolloin syntyy uudenlaisia yhdistelmä- DNA-molekyylejä. Yleisimmin yhdistelmä-DNA- tekniikassa käytetään bakteerien plasmideja, joiden avulla vierasta DNA:ta siirretään bakteereihin tai muihin eliöihin.",
+    "pages": [
+      75
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "596864697374656c6dc3a42d646e612d74656b6e69696b6b612c205265636f6d62696e616e74646e61746563686e69717565"
+  },
+  {
+    "term": "Aluke, Primer",
+    "failed": 0,
+    "explanation": "Lyhyt yksijuosteinen DNA-jakso, joka tarvitaan aloittamaan koeputkessa DNA-polymeraasin toiminta ja DNA:n kandentaminen.",
+    "pages": [
+      76
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "416c756b652c205072696d6572"
+  },
+  {
+    "term": "Pcr, Polymerasechainreaction",
+    "failed": 0,
+    "explanation": "Ks. polymeraasiketjureaktio",
+    "pages": [
+      76
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "5063722c20506f6c796d6572617365636861696e7265616374696f6e"
+  },
+  {
+    "term": "Polymeraasiketjureaktio, Pcr, Polymerasechainreaction",
+    "failed": 0,
+    "explanation": "Menetelmä, jonka avulla DNA-molekyyliä voidaan monistaa nopeasti koeputkessa.",
+    "pages": [
+      76
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "506f6c796d6572616173696b65746a757265616b74696f2c205063722c20506f6c796d6572617365636861696e7265616374696f6e"
+  },
+  {
+    "term": "Elektroforeesi, Electrophoresis",
+    "failed": 0,
+    "explanation": "Laboratoriomenetelmä, jossa erotellaan erikokoisia molekyylejä sähkövirran avulla. DNA- ja RNA- molekyylien erottelu perustuu erikokoisten palasten Iiikkumisnopeuteen agaroosigeelissä.",
+    "pages": [
+      78
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "456c656b74726f666f72656573692c20456c656374726f70686f7265736973"
+  },
+  {
+    "term": "Hybridisaatio, Hybridization",
+    "failed": 0,
+    "explanation": "DNA- tai RNA-juosteiden taipumus muodostaa emästen välisiä sidoksia ja liittyä niiden avulla toisiinsa.",
+    "pages": [
+      79
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4879627269646973616174696f2c20487962726964697a6174696f6e"
+  },
+  {
+    "term": "Rinnakkaissekvensointi, Parallelsequencing, High-throughputsequencing",
+    "failed": 0,
+    "explanation": "Erittäin nopea, ns. uuden sukupolven DNA- sekvensointi, jonka avulla saadaan hyvin nopeasti kartoitettua kokonaisen genomin emäsjärjestys.",
+    "pages": [
+      82
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "52696e6e616b6b61697373656b76656e736f696e74692c20506172616c6c656c73657175656e63696e672c20486967682d7468726f75676870757473657175656e63696e67"
+  },
+  {
+    "term": "Sekvensointi, Sequencing",
+    "failed": 0,
+    "explanation": "Nukleiinihappojen emäsjärjestyksen tai proteiinien aminohappojärjestyksen selvittäminen.",
+    "pages": [
+      82
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "53656b76656e736f696e74692c2053657175656e63696e67"
+  },
+  {
+    "term": "Bioinformatiikka, Bioinformatics12, ",
+    "failed": 0,
+    "explanation": "Suurten biologisten tietomäärien hallinta ja hyödyntäminen matematiikan, tilastotieteen ja tietotekniikan keinoin.",
+    "pages": [
+      83
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "42696f696e666f726d617469696b6b612c2042696f696e666f726d617469637331322c20"
+  },
+  {
+    "term": "Geneinactivation, Geneknockout",
+    "failed": 0,
+    "explanation": "poistogeeninen, Solu tai eliö, jonka oma geeni on tehty toimintakyvyttömäksi.",
+    "pages": [
+      86
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "47656e65696e61637469766174696f6e2c2047656e656b6e6f636b6f7574"
+  },
+  {
+    "term": "Siirtogeeninen, Transgenicorganism",
+    "failed": 0,
+    "explanation": "Muuntogeeninen eliö, johon on geeniteknisesti siirretty vieras geeni.",
+    "pages": [
+      86
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "53696972746f6765656e696e656e2c205472616e7367656e69636f7267616e69736d"
+  },
+  {
+    "term": "Vektori, Vector",
+    "failed": 0,
+    "explanation": "Kuljetin, jonka avulla siirrettävä geeni saadaan perille vastaanottavaan soluun. Useimmin käytetyt biologiset vektorit ovat virukset ja bakteerien plasmidit.",
+    "pages": [
+      87
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "56656b746f72692c20566563746f72"
+  },
+  {
+    "term": "Geenikirjasto, Genelibrary",
+    "failed": 0,
+    "explanation": "Esim. bakteeriviljelmään siirretty jonkin eliön perimä tai osa siitä. Kirjasto voi koostua eliön koko genomista, joka on pätkitty katkaisuentsyymeillä sattumanvaraisiin paloihin ja liitetty bakteerien piasmideihin. Se voi olla myös ns. vastin-DNA- kirjasto, josta on käänteiskopioinnin avulla otettu pois proteiineja koodaamattomat osat eli intronit.",
+    "pages": [
+      88
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4765656e696b69726a6173746f2c2047656e656c696272617279"
+  },
+  {
+    "term": "Geenikirjasto, Genelibrary",
+    "failed": 0,
+    "explanation": "Esim. bakteeriviljelmään siirretty jonkin eliön perimä tai osa siitä. Kirjasto voi koostua eliön koko genomista, joka on pätkitty katkaisuentsyymeillä sattumanvaraisiin paloihin ja liitetty bakteerien piasmideihin. Se voi olla myös ns. vastin-DNA- kirjasto, josta on käänteiskopioinnin avulla otettu pois proteiineja koodaamattomat osat eli intronit.",
+    "pages": [
+      88
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4765656e696b69726a6173746f2c2047656e656c696272617279"
+  },
+  {
+    "term": "Vastin-dna-kirjasto, Cdnalibrary",
+    "failed": 0,
+    "explanation": "Geenikirjasto, josta on käänteiskopioinnin avulla otettu pois proteiineja koodaamattomat osat eli intronit.",
+    "pages": [
+      89
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "56617374696e2d646e612d6b69726a6173746f2c2043646e616c696272617279"
+  },
+  {
+    "term": "Mikroinjektio, Microinjection",
+    "failed": 0,
+    "explanation": "Geeninsiirtomenetelmä, jossa vieras geeni siirretään isäntäsolun tumaan ohuen lasiputken ja mikroskoopin avulla.",
+    "pages": [
+      90
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4d696b726f696e6a656b74696f2c204d6963726f696e6a656374696f6e"
+  },
+  {
+    "term": "Liposomi, Liposome",
+    "failed": 0,
+    "explanation": "Fosfolipidikalvosta koostuva rakkula, jonka sisään voidaan pakata DNA:ta ja joka siirtää sitä solukalvon läpi eläin- tai kasvisoluun.",
+    "pages": [
+      91
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4c69706f736f6d692c204c69706f736f6d65"
+  },
+  {
+    "term": "Virus, Virus46, ",
+    "failed": 0,
+    "explanation": "Perintöainesta (DNA tai RNA) sisältävä pieni kappale, joka tarvitsee toimiakseen elävän solun.",
+    "pages": [
+      91
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "56697275732c20566972757334362c20"
+  },
+  {
+    "term": "Koetin, Probe79, ",
+    "failed": 0,
+    "explanation": "Lyhyehkö merkkiaineella varustettu DNA- tai RNA- jakso, jonka avulla voidaan löytää tietty emäsjärjestys perimästä. Koetin tarttuu emäspariperiaatteen mukaisesti kohtiin, joissa on vastaava emäsjärjestys.",
+    "pages": [
+      92
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4b6f6574696e2c2050726f626537392c20"
+  },
+  {
+    "term": "Merkkigeeni, Markergene",
+    "failed": 0,
+    "explanation": "Geeni, jonka avulla voidaan paikantaa tai tunnistaa siirretty geeni.",
+    "pages": [
+      92
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4d65726b6b696765656e692c204d61726b657267656e65"
+  },
+  {
+    "term": "Opas-rna, Guiderna, Grna73, ",
+    "failed": 0,
+    "explanation": "20 nukleotidin mittainen RNA-molekyyli, jonka avulla cas-entsyymin toiminta kohdistetaan juuri haluttuun kohtaan muokattavaa DNA-ketjua.",
+    "pages": [
+      93
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4f7061732d726e612c204775696465726e612c2047726e6137332c20"
+  },
+  {
+    "term": "Jalostus, Selectivebreeding",
+    "failed": 0,
+    "explanation": "Kasvien, eläinten ja mikrobien perinnöllisten ominaisuuksien muuttamista erilaisin metelmin. Hyötyeläinten tai -kasvien ominaisuuksien parantaminen esimerkiksi valinnan, risteytyten ja geenitekniikan keinoin. Jalostuksella voidaa saada aikaan paremmin tuottavia, terveempiä tai erilaisia ilmasto-oloja kestäviä lajikkeita ja rotuja.",
+    "pages": [
+      96
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4a616c6f737475732c2053656c6563746976656272656564696e67"
+  },
+  {
+    "term": "Lajike, Cultivar, Variety",
+    "failed": 0,
+    "explanation": "Kasvilajin sisäinen yksilöjoukko, jonka yksilöt poikkeavat tiettyjen ominaisuuksien suhteen muista lajin yksilöistä. Saman lajin eri lajikkeet kykenevät risteytymään keskenään. Lajikkeet syntyvät jalostuksen tuloksena.",
+    "pages": [
+      97
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4c616a696b652c2043756c74697661722c2056617269657479"
+  },
+  {
+    "term": "Eläinjalostus, Animalbreeding",
+    "failed": 0,
+    "explanation": "Eläinten perinnöllisten ominaisuuksien muuttamista erilaisin menetelmin, esimerkiksi valinnan, risteyttämisen tai geenitekniikan keinoin.",
+    "pages": [
+      98
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "456cc3a4696e6a616c6f737475732c20416e696d616c6272656564696e67"
+  },
+  {
+    "term": "Puhdaslinja, Pureline",
+    "failed": 0,
+    "explanation": "Perinnöllisesti samanlaisten geenistöltään homotsygoottisten yksilöiden muodostama peräkkäisten sukupolvien sarja. Jalostuksessapuhdas linja saadaan aikaan valinnan avulla.",
+    "pages": [
+      99
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "5075686461736c696e6a612c20507572656c696e65"
+  },
+  {
+    "term": "Valintajalostus, Artificialselection",
+    "failed": 0,
+    "explanation": "Ihmisen aikaansaamaa valintaa. Ihmisen mielestä tärkeitä ominaisuuksia ilmentävät yksilöt valitaan jatkamaan sukua. Valintajalostus johtaa samankaltaiseen lopputulokseen kuin luonnon populaatioissa suuntaava valinta. Valinnan avulla ei saada aikaiseksi ominaisuuksiltaan uudenlaisia yksilöitä, vaan se lajittelee jo olemassa olevia ominaisuuksia.",
+    "pages": [
+      99
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "56616c696e74616a616c6f737475732c204172746966696369616c73656c656374696f6e"
+  },
+  {
+    "term": "Maatiaislajike, Nativecultivar",
+    "failed": 0,
+    "explanation": "Viljelykasvin jalostamaton muoto tai kotimaisten kantojen pohjalta jalostettu kasvilajike.",
+    "pages": [
+      101
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4d616174696169736c616a696b652c204e617469766563756c7469766172"
+  },
+  {
+    "term": "Maatiaisrotu, Nativerace",
+    "failed": 0,
+    "explanation": "Kotieläimen jalostamaton muoto tai kotimaisten kantojen pohjalta jalostettu eläinrotu.",
+    "pages": [
+      101
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4d61617469616973726f74752c204e617469766572616365"
+  },
+  {
+    "term": "Heteroosi, Heterosis",
+    "failed": 0,
+    "explanation": "Heterotsygoottisen yksilön paremmuus jonkin ominaisuuden suhteen verrattuna vastaavaan homotsygoottiin.",
+    "pages": [
+      102
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "48657465726f6f73692c2048657465726f736973"
+  },
+  {
+    "term": "Hybridi, Hybrid",
+    "failed": 0,
+    "explanation": "Kanden perimältään erilaisen vanhemman jälkeläinen.",
+    "pages": [
+      102
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "487962726964692c20487962726964"
+  },
+  {
+    "term": "Geenimutaatio, Genemutation24, 51, ",
+    "failed": 0,
+    "explanation": "Pysyvä perinnöllinen muutos geenin rakenteessa. Tavallisesti muutos johtuu DNA:n nukleotidien vaihtumisesta, puuttumisesta tai monistumisesta. Geenin eri alleelit ovat syntyneet geenimutaatioiden seurauksena.",
+    "pages": [
+      103
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4765656e696d7574616174696f2c2047656e656d75746174696f6e32342c2035312c20"
+  },
+  {
+    "term": "Geenimutaatio, Genemutation24, 51, ",
+    "failed": 0,
+    "explanation": "Pysyvä perinnöllinen muutos geenin rakenteessa. Tavallisesti muutos johtuu DNA:n nukleotidien vaihtumisesta, puuttumisesta tai monistumisesta. Geenin eri alleelit ovat syntyneet geenimutaatioiden seurauksena.",
+    "pages": [
+      103
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4765656e696d7574616174696f2c2047656e656d75746174696f6e32342c2035312c20"
+  },
+  {
+    "term": "Kromosomistomutaatio, Genomemutation",
+    "failed": 0,
+    "explanation": "Mutaatio, jossa kromosomien määrä muuttuu.",
+    "pages": [
+      103
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4b726f6d6f736f6d6973746f6d7574616174696f2c2047656e6f6d656d75746174696f6e"
+  },
+  {
+    "term": "Mutaatiojalostus, Mutationbreeding",
+    "failed": 0,
+    "explanation": "Mutaatioiden hyödyntäminen kasvinjalostuksessa.",
+    "pages": [
+      103
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4d7574616174696f6a616c6f737475732c204d75746174696f6e6272656564696e67"
+  },
+  {
+    "term": "Polypioidia, Polyploidy",
+    "failed": 0,
+    "explanation": "Diploidisen peruskromosomiston esiintyminen moninkertaisena.",
+    "pages": [
+      103
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "506f6c7970696f696469612c20506f6c79706c6f696479"
+  },
+  {
+    "term": "Allopolyploidia, Allopolyploidy",
+    "failed": 0,
+    "explanation": "Kromosomistomutaatio, jossa yksilön moninkertaistuneet peruskromosomistot ovat peräisin eri lajeilta.",
+    "pages": [
+      104
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "416c6c6f706f6c79706c6f696469612c20416c6c6f706f6c79706c6f696479"
+  },
+  {
+    "term": "Autopolyploidia, Autopolyploidy",
+    "failed": 0,
+    "explanation": "Kromosomistomutaatio, jossa yksilön oma peruskromosomisto on moninkertaistunut.",
+    "pages": [
+      104
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4175746f706f6c79706c6f696469612c204175746f706f6c79706c6f696479"
+  },
+  {
+    "term": "Genomivalinta, Genomeselection",
+    "failed": 0,
+    "explanation": "Jalostettavien eliöiden tutkiminen ja valinta DNA-sirujen avulla.",
+    "pages": [
+      104
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "47656e6f6d6976616c696e74612c2047656e6f6d6573656c656374696f6e"
+  },
+  {
+    "term": "Genomivalinta, Genomeselection",
+    "failed": 0,
+    "explanation": "Jalostettavien eliöiden tutkiminen ja valinta DNA-sirujen avulla.",
+    "pages": [
+      104
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "47656e6f6d6976616c696e74612c2047656e6f6d6573656c656374696f6e"
+  },
+  {
+    "term": "Polyploidiajalostus, Polyploidybreeding",
+    "failed": 0,
+    "explanation": "Jalostusrnenetelmä, jossa hyödynnetään polyploidiaa.",
+    "pages": [
+      104
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "506f6c79706c6f696469616a616c6f737475732c20506f6c79706c6f6964796272656564696e67"
+  },
+  {
+    "term": "Alkionsiirto, Embryotransfer",
+    "failed": 0,
+    "explanation": "Eläinjalostuksessa käytetty menetelmä, jossa tarkoin valikoiduista hyvistä jalostusvanhemmista tuotetut alkiot siirretään sopivan naaraan kohtuun kasvamaan.",
+    "pages": [
+      105
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "416c6b696f6e73696972746f2c20456d6272796f7472616e73666572"
+  },
+  {
+    "term": "Koeputkihedelmöitys, Invitrofertilization",
+    "failed": 0,
+    "explanation": "Elimistön ulkopuolella keinotekoisesti suoritettava hedelmöitys.",
+    "pages": [
+      105
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4b6f657075746b69686564656c6dc3b6697479732c20496e766974726f66657274696c697a6174696f6e"
+  },
+  {
+    "term": "Siittiöidensukupuolijaottelu, Spermselection",
+    "failed": 0,
+    "explanation": "Jalostuksessa käytettävä menetelmä, jonka avulla voidaan valita siemennesteestä siittiöt niiden Y- ja X -kromosomin perusteella.",
+    "pages": [
+      105
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "536969747469c3b66964656e73756b7570756f6c696a616f7474656c752c20537065726d73656c656374696f6e"
+  },
+  {
+    "term": "Biologinenmonimuotoisuus, Biodiversiteetti, Biodiversity",
+    "failed": 0,
+    "explanation": "Elollisen luonnon monimuotoisuus, joka tarkoittaa erilaisten ekosysteemien ja elinympäristöjen monimuotoisuutta, lajien monimuotoisuutta ja lajin sisäistä perinnöllistä monimuotoisuutta.",
+    "pages": [
+      107
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "42696f6c6f67696e656e6d6f6e696d756f746f69737575732c2042696f646976657273697465657474692c2042696f646976657273697479"
+  },
+  {
+    "term": "Geenipankki, Genebank",
+    "failed": 0,
+    "explanation": "Geenikokoelma, jonka avulla säilytetään geneettisiä luonnonvaroja; mandollisimman edustava kokoelma eliöiden kantamasta perintöaineksesta eli DNA:sta.",
+    "pages": [
+      107
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4765656e6970616e6b6b692c2047656e6562616e6b"
+  },
+  {
+    "term": "Geenipankki, Genebank",
+    "failed": 0,
+    "explanation": "Geenikokoelma, jonka avulla säilytetään geneettisiä luonnonvaroja; mandollisimman edustava kokoelma eliöiden kantamasta perintöaineksesta eli DNA:sta.",
+    "pages": [
+      107
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4765656e6970616e6b6b692c2047656e6562616e6b"
+  },
+  {
+    "term": "Geneticallymodifiedorganism",
+    "failed": 0,
+    "explanation": "muuntogeeninen eliö, Eliö, jonka perimää on muunneltu joko siirtämällä siihen uusia geenejä (siirtogeeninen) tai tekemällä jokin sen geeneistä toimimattomaksi (poistogeeninen).",
+    "pages": [
+      110
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "47656e65746963616c6c796d6f6469666965646f7267616e69736d"
+  },
+  {
+    "failed": 0,
+    "term": "Agrobakteeri, Agrobacterium",
+    "id": "4167726f62616b74656572692c204167726f62616374657269756d",
+    "explanation": "Maaperäbakteeri (Agrobacterium tumefaciens), jota käytetään geeninsiirrossa kasveihin.",
+    "pages": [
+      111
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    }
+  },
+  {
+    "term": "Geenipyssy, Genegun",
+    "failed": 0,
+    "explanation": "Laite, jonka avulla soluihin ammutaan DNA:11a päällystettyjä kultahiukkasia.",
+    "pages": [
+      111
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4765656e6970797373792c2047656e6567756e"
+  },
+  {
+    "term": "Geenipyssy, Genegun",
+    "failed": 0,
+    "explanation": "Laite, jonka avulla soluihin ammutaan DNA:11a päällystettyjä kultahiukkasia.",
+    "pages": [
+      111
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4765656e6970797373792c2047656e6567756e"
+  },
+  {
+    "term": "Klooni, Done",
+    "failed": 0,
+    "explanation": "Perimältään samanlaisten yksilöiden joukko.",
+    "pages": [
+      117
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4b6c6f6f6e692c20446f6e65"
+  },
+  {
+    "term": "Tumansiirtotekniikka, Nucleartransplantation",
+    "failed": 0,
+    "explanation": "Eläinten kloonaamisessa käytettävä menetelmä, jossa kloonattavan yksilön tuma tai somaattinen solu yhdistetään sähköpulssin avulla munasoluun, jonka tuma on poistettu.",
+    "pages": [
+      118
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "54756d616e73696972746f74656b6e69696b6b612c204e75636c6561727472616e73706c616e746174696f6e"
+  },
+  {
+    "term": "Haploidiajalostus, Haploidbreeding",
+    "failed": 0,
+    "explanation": "Jalostusmenetelmä, jossa tuotetaan haploidisia kasveja.",
+    "pages": [
+      120
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4861706c6f696469616a616c6f737475732c204861706c6f69646272656564696e67"
+  },
+  {
+    "term": "Geenitekninenrokote, Recombinantvaccine",
+    "failed": 0,
+    "explanation": "Yhdistelmä-DNA-tekniikalla valmistettu rokote.",
+    "pages": [
+      127
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4765656e6974656b6e696e656e726f6b6f74652c205265636f6d62696e616e7476616363696e65"
+  },
+  {
+    "term": "Geenitekninenrokote, Recombinantvaccine",
+    "failed": 0,
+    "explanation": "Yhdistelmä-DNA-tekniikalla valmistettu rokote.",
+    "pages": [
+      127
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4765656e6974656b6e696e656e726f6b6f74652c205265636f6d62696e616e7476616363696e65"
+  },
+  {
+    "term": "Antibiootti, Antibiotic26, 42, ",
+    "failed": 0,
+    "explanation": "Mikrobin tuottama tai synteettisesti valmistettu aine, joka estää bakteerien lisääntymistä tai kasvua. Esimerkiksi penisilliini.",
+    "pages": [
+      128
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "416e746962696f6f7474692c20416e746962696f74696332362c2034322c20"
+  },
+  {
+    "term": "Bakteriofagi, Faagi, Bacteriophage48, ",
+    "failed": 0,
+    "explanation": "Bakteerissa lisääntyvä virus.",
+    "pages": [
+      128
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "42616b746572696f666167692c2046616167692c20426163746572696f706861676534382c20"
+  },
+  {
+    "term": "Fagiterapia, Phagetherapy",
+    "failed": 0,
+    "explanation": "Perinteistä antibioottihoitoa korvaava bakteeritautien hoitomuoto. Siinä käytetään spesifisiä bakteriofageja taudinaiheuttajabakteerin tuhoamiseen ilman, että elimistön normaalit bakteerit kuolevat.",
+    "pages": [
+      128
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "46616769746572617069612c20506861676574686572617079"
+  },
+  {
+    "term": "Biopankki, Biobank",
+    "failed": 0,
+    "explanation": "sialtåä naytteenluovuttajien biologisia näytteitä, useimmiten verinäytteitä, sekä tietoja näytteenluovuttajien terveydentilasta ja siihen liittyvistä tekijöistä.",
+    "pages": [
+      128
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "42696f70616e6b6b692c2042696f62616e6b"
+  },
+  {
+    "term": "Hormoni, Hormone",
+    "failed": 0,
+    "explanation": "Umpirauhasten tuottamia viestiaineita, jotka kulkevat veren mukana kohdesoluihinsa ja vaikuttavat niiden toimintaan hyvin pieninä pitoisuuksina.",
+    "pages": [
+      129
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "486f726d6f6e692c20486f726d6f6e65"
+  },
+  {
+    "term": "Interferoni, Interferon",
+    "failed": 0,
+    "explanation": "Proteiini, jota viruksen saastuttamat solut ja jotkin imusolut levittävät ympärilleen. Estää virusten ja syöpäsolujen lisääntymistä edistämällä syöjäsolujen ja T-imusolujen toimintaa.",
+    "pages": [
+      129
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "496e7465726665726f6e692c20496e7465726665726f6e"
+  },
+  {
+    "term": "Monoclonalantibody",
+    "failed": 0,
+    "explanation": "monoklonaalinen vasta-aine, Vasta-aine, joka tunnistaa tarkasti yhden antigeenin osan. Tuotetaan soluviljelmissä.",
+    "pages": [
+      130
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4d6f6e6f636c6f6e616c616e7469626f6479"
+  },
+  {
+    "term": "Täsmälääke, Targeteddrug",
+    "failed": 0,
+    "explanation": "Lääke, joka vaikuttaa vain tiettyyn solun molekyyliin tai mekanismiin.",
+    "pages": [
+      130
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "54c3a4736dc3a46cc3a4c3a46b652c20546172676574656464727567"
+  },
+  {
+    "term": "Crispr_tekniikka, Crisprtechnique73, 116, ",
+    "failed": 0,
+    "explanation": "Geeninmuokkaustekniikka, jossa cas-entsyymin avulla leikataan DNA-kaksoisjuoste tarkasti juuri tietyn emäsjärjestyksen kohdalta. Cas-entsyymi ohjataan haluttuun kohtaan opas-RNA:n avulla. Opas-RNA voidaan tehdä laboratoriossa juuri halutunlaiseksi. Tekniikkaa käytetään poisto- ja siirtogeenisten eliöiden tuottamiseen.",
+    "pages": [
+      134
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4372697370725f74656b6e69696b6b612c20437269737072746563686e6971756537332c203131362c20"
+  },
+  {
+    "term": "Tautimalli, Diseasemodel",
+    "failed": 0,
+    "explanation": "Koe-eläin, jolle on saatu aikaan ihmisen sairautta muistuttava tila geenimuokkauksen avulla.",
+    "pages": [
+      134
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "54617574696d616c6c692c20446973656173656d6f64656c"
+  },
+  {
+    "term": "Genomitietokanta, Genomedatabase",
+    "failed": 0,
+    "explanation": "Integroituja tietokoneeseen tallennettuja geenitiedon lähteitä, joihin on koottu koko lajin genomi sekä geeneihin liittyvää tietoa, kuten tunnetut geenit, eri tavoin ennustetut geenit ja lähetti IMA sekvenssit.",
+    "pages": [
+      135
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "47656e6f6d69746965746f6b616e74612c2047656e6f6d656461746162617365"
+  },
+  {
+    "term": "Genomitietokanta, Genomedatabase",
+    "failed": 0,
+    "explanation": "Integroituja tietokoneeseen tallennettuja geenitiedon lähteitä, joihin on koottu koko lajin genomi sekä geeneihin liittyvää tietoa, kuten tunnetut geenit, eri tavoin ennustetut geenit ja lähetti IMA sekvenssit.",
+    "pages": [
+      135
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "47656e6f6d69746965746f6b616e74612c2047656e6f6d656461746162617365"
+  },
+  {
+    "term": "Dna-siru, Mikrosiru, Chip, Dna-array80, ",
+    "failed": 0,
+    "explanation": "Lasinen tai muovinen pieni levy, johon sijoitetaan tutkittavaksi ja tunnistettavaksi jopa kymmeniä tuhansia erilaisia DNA- tai vastin-DNA-paloja (geenejä).",
+    "pages": [
+      136
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "446e612d736972752c204d696b726f736972752c20436869702c20446e612d617272617938302c20"
+  },
+  {
+    "term": "Geenitesti, Genetest, Dnatest",
+    "failed": 0,
+    "explanation": "Tiettyjen alleelien tai geenivirheiden etsiminen ja tunnistaminen genomista. Perustuu genomin sekvensointiin.",
+    "pages": [
+      136
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4765656e6974657374692c2047656e65746573742c20446e6174657374"
+  },
+  {
+    "term": "Genominsekvensointi, Genomesequencing",
+    "failed": 0,
+    "explanation": "Nukleiinihappojen emäsjärjestyksen selvittäminen koko genomista.",
+    "pages": [
+      136
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "47656e6f6d696e73656b76656e736f696e74692c2047656e6f6d6573657175656e63696e67"
+  },
+  {
+    "term": "Geenitesti, Genetest, Dnatest",
+    "failed": 0,
+    "explanation": "Tiettyjen alleelien tai geenivirheiden etsiminen ja tunnistaminen genomista. Perustuu genomin sekvensointiin.",
+    "pages": [
+      136
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4765656e6974657374692c2047656e65746573742c20446e6174657374"
+  },
+  {
+    "term": "Genominsekvensointi, Genomesequencing",
+    "failed": 0,
+    "explanation": "Nukleiinihappojen emäsjärjestyksen selvittäminen koko genomista.",
+    "pages": [
+      136
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "47656e6f6d696e73656b76656e736f696e74692c2047656e6f6d6573657175656e63696e67"
+  },
+  {
+    "term": "Alkiodiagnostiikka, Sikiödiagnostiikka, Embryodiagnostics",
+    "failed": 0,
+    "explanation": "Tutkimus, jonka avulla selvitetään alkion tai sikiön perinnöllisen taudin tai sikiövaurion mandollisuutta. Alkiodiagnostiikan keinoja ovat ultraäänitutkimus, lapsivesi- ja istukkatutkimus sekä geenitestit.",
+    "pages": [
+      137
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "416c6b696f646961676e6f737469696b6b612c2053696b69c3b6646961676e6f737469696b6b612c20456d6272796f646961676e6f7374696373"
+  },
+  {
+    "term": "Biomarkkeri, Biomarker",
+    "failed": 0,
+    "explanation": "Elimistössä olevia molekyylejä, joita käytetään sairauksien diagnostiikassa ja seurannassa. Esimerkiksi CRP-proteiinin hetkellinen korkea määrä veressä kertoo elimistössä olevasta akuutista tulehduksesta.",
+    "pages": [
+      138
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "42696f6d61726b6b6572692c2042696f6d61726b6572"
+  },
+  {
+    "term": "Dna-viivakoodi, Barcode",
+    "failed": 0,
+    "explanation": "Menetelmä, jossa kukin eliölaji saa oman ainutlaatuisen viivakoodinsa. Viivakoodeja voidaan käyttää eliölajien sukulaisuussuhteiden selvittämiseen ja lajintunnistukseen.",
+    "pages": [
+      138
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "446e612d76696976616b6f6f64692c20426172636f6465"
+  },
+  {
+    "term": "Geenihoito, Genetherapy",
+    "failed": 0,
+    "explanation": "Sairauden hoitamista geeninsiirron avulla. Geenihoidossa viallinen alleeli korvataan toimivalla alleelilla.",
+    "pages": [
+      138
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4765656e69686f69746f2c2047656e6574686572617079"
+  },
+  {
+    "term": "Solukorvaushoito, Cellreplacementtherapy",
+    "failed": 0,
+    "explanation": "Hoitoa, joka perustuu kantasolujen tai niistä erilaistettujen solujen käyttöön. Esimerkiksi leukemiassa potilaan oma luuydin tuhotaan ja se korvataan toiselta henkilöltä saadulla luuydinsiirteellä.",
+    "pages": [
+      140
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "536f6c756b6f7276617573686f69746f2c2043656c6c7265706c6163656d656e7474686572617079"
+  },
+  {
+    "term": "Ips-solu, Indusoitupluripotenttikantasolu, Inducedpluripotentstemcells, Ipsc",
+    "failed": 0,
+    "explanation": "Erilaistuneista soluista laboratorio-olosuhteissa aikaansaatuja monikykyisiä kantasoluja. Ne voivat erilaistua minkä tahansa kudoksen soluiksi.",
+    "pages": [
+      141
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4970732d736f6c752c20496e6475736f697475706c757269706f74656e7474696b616e7461736f6c752c20496e6475636564706c757269706f74656e747374656d63656c6c732c2049707363"
+  },
+  {
+    "term": "Kudosteknologia, Tissueengineering",
+    "failed": 0,
+    "explanation": "Kudosten tai elinten rakentamista solujen, kasvutekijöiden ja biomateriaalien avulla. Esimerkiksi keinoihon valmistus.",
+    "pages": [
+      142
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4b75646f7374656b6e6f6c6f6769612c20546973737565656e67696e656572696e67"
+  },
+  {
+    "term": "Biometrinentunnistus, Biometry",
+    "failed": 0,
+    "explanation": "Biologisiin ominaisuuksiin perustuvaa yksilöntunnistusta, jossa biologiset ominaisuudet pyritään mittaamaan mandollisimman tarkasti.",
+    "pages": [
+      146
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "42696f6d657472696e656e74756e6e69737475732c2042696f6d65747279"
+  },
+  {
+    "term": "Dna-tunniste, Dna-profiili, Dnafingerprints",
+    "failed": 0,
+    "explanation": "Yksilön tunnistaminen DNA:n toistojaksojen perusteella.",
+    "pages": [
+      148
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "446e612d74756e6e697374652c20446e612d70726f6669696c692c20446e6166696e6765727072696e7473"
+  },
+  {
+    "term": "Toistojakso, Microsatellites, Repetitivedna",
+    "failed": 0,
+    "explanation": "Tumallisten eliöiden DNA:ssa esiintyviä lyhyitä 1-5 nukleotidin mittaisia toistuvia jaksoja. Saman lajin eri yksilöillä toistojen määrä vaihtelee tuhansista miljooniin. Toistojaksoja käytetään hyväksi yksilöiden tunnistamisessa ja geneettisessä kartoituksessa.",
+    "pages": [
+      148
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "546f6973746f6a616b736f2c204d6963726f736174656c6c697465732c2052657065746974697665646e61"
+  },
+  {
+    "term": "Bioenergia, Bioenergy",
+    "failed": 0,
+    "explanation": "Energiaa, jota saadaan biopolttoaineita käytettäessä.",
+    "pages": [
+      157
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "42696f656e65726769612c2042696f656e65726779"
+  },
+  {
+    "term": "Biopoittoaine, Biofuel",
+    "failed": 0,
+    "explanation": "Kasviperäisiä polttoaineita, joita voidaan valmistaa esimerkiksi öljykasveista, metsäteollisuuden jätemateriaaleista tai levistä.",
+    "pages": [
+      157
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "42696f706f6974746f61696e652c2042696f6675656c"
+  },
+  {
+    "term": "Biokaasu, Biogas",
+    "failed": 0,
+    "explanation": "Kaasu, jota syntyy mikrobien hajottaessa orgaanisia yhdisteitä hapettomissa olosuhteissa.",
+    "pages": [
+      158
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "42696f6b616173752c2042696f676173"
+  },
+  {
+    "term": "Biomateriaali, Biomaterial",
+    "failed": 0,
+    "explanation": "Materiaali, joka on valmistettu biopohjaisista raaka-aineista, kuten kasveista tai kasviperäisistä teollisuuden sivuvirroista, kuten lignoselluloosasta.",
+    "pages": [
+      159
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "42696f6d617465726961616c692c2042696f6d6174657269616c"
+  },
+  {
+    "term": "Geneticallymodifiedfood",
+    "failed": 0,
+    "explanation": "muuntogeeninen ravinto, Ruokaa, jonka raaka-aineena on käytetty muuntogeenisiä eliöitä tai niiden osia, kuten siemeniä tai hedelmiä.",
+    "pages": [
+      161
+    ],
+    "theme": "Biology",
+    "course": 5,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "47656e65746963616c6c796d6f646966696564666f6f64"
+  }
+]

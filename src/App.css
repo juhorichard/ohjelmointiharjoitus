@@ -1,0 +1,74 @@
+h1 {
+  margin: 0
+}
+
+.cardRow{
+  padding: 5px;
+}
+
+.btnRow{
+  padding: 5px;
+}
+
+.app {
+  display: relative;
+  height: 100vh;
+  background: #eee;
+}
+
+.spacer > * + * { margin-top: .75rem }
+
+.node {
+  border: 1px solid blue;
+  max-width: max-content;
+  padding: .25em;
+  margin: .5em .25em;
+}
+
+.node--selected {
+  background-color: lightblue;
+}
+
+.node-form label {
+  text-transform: capitalize;
+}
+
+.tree-children {
+  display: flex;
+}
+
+.tree-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.d3-tree {
+  border-radius: 10px;
+  box-shadow: 0 0 15px lightgrey;
+  background: white;
+}
+
+.node-link {
+  fill: none;
+  stroke: #555;
+  /* stroke-opacity: 0.4; */
+  stroke-width: 5.5;
+}
+
+.node-card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  border-radius: 5px;
+  border: 1px solid lightgrey;
+  padding: .75rem;
+  background: white;
+  /* box-shadow: 0 0 15px lightergrey; */
+}
+
+.node-card button:first-of-type {
+  margin-top: auto
+}

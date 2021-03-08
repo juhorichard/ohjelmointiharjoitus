@@ -1,0 +1,272 @@
+[
+  {
+    "failed": 0,
+    "term": "Additioreaktio",
+    "id": "4164646974696f7265616b74696f",
+    "explanation": "Additioreaktio on reaktio, jossa molekyyliin liittyy toinen molekyyli. \n",
+    "pages": [],
+    "theme": "Chemistry",
+    "course": 0,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    }
+  },
+  {
+    "term": "Ainemäärä",
+    "failed": 0,
+    "explanation": "Ainemäärä on aineen muodostaneiden atomien, ionien tai molekyylien lukumäärä ilmoitettuna mooleina. Aktivaatioenergia (Aktivoitumisenergia) on energia, joka vaaditaan, jotta reaktio tapahtuisi. Aldehydi on yhdiste, jonka funktionaalinen ryhmä on hiiliketjun päässä oleva CHO-ryhmä. \n",
+    "pages": [],
+    "theme": "Chemistry",
+    "course": 0,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "41696e656dc3a4c3a472c3a4"
+  },
+  {
+    "term": "Alkaani",
+    "failed": 0,
+    "explanation": "Alkaani on hiilivety, jossa on vain sp3-hybridisoituneita hiiliatomeja. Alkalimetalli on 1. ryhmän alkuaine, pois lukien vety Alkeeni on hiilivety, jossa on yksi kaksoissidos. Alkoholi on yhdiste, jonka funktionaalinen ryhmä on —OH (hydroksyyliryhmä). Alkuaine on aine, jonka atomien ytimissä on tietty lukumäärä protoneja. \n",
+    "pages": [],
+    "theme": "Chemistry",
+    "course": 0,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "416c6b61616e69"
+  },
+  {
+    "term": "Alkyyni",
+    "failed": 0,
+    "explanation": "Alkyyni on hiilivety, jossa on yksi kolmoissidos. \n",
+    "pages": [],
+    "theme": "Chemistry",
+    "course": 0,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "416c6b79796e69"
+  },
+  {
+    "term": "Allotropia",
+    "failed": 0,
+    "explanation": "Allotropia tarkoittaa tilannetta, jossa alkuaine esiintyy samassa olomuodossa eri alkuainemolekyyleinä. Amfolyytti on aine, joka voi toimia happona tai emäksenä. Amfoteerinen aine voi toimia happona tai emäksenä. \n",
+    "pages": [],
+    "theme": "Chemistry",
+    "course": 0,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "416c6c6f74726f706961"
+  },
+  {
+    "term": "Aminohapot",
+    "failed": 0,
+    "explanation": "Aminohapot sisältävät vähintään yhden karboksyylihapporyhmän sekä yhden aminoryhmän. \n",
+    "pages": [],
+    "theme": "Chemistry",
+    "course": 0,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "416d696e6f6861706f74"
+  },
+  {
+    "term": "Amorfisella",
+    "failed": 0,
+    "explanation": "Amorfisella aineella ei ole pitkänmatkan säännöllistä kolmiulotteista rakennetta eikä tarkkaa sulamispistettä. Anioni on negatiivisesti varautunut ioni. Anodi on elektrodi, jolla tapahtuu hapettuminen. Aromaattinen yhdiste on yhdiste, jossa on vähintään yksi aromaattinen rengas (yleensä bentseeni). Asymmetrinen hiili on hiili, johon on kiinnittynyt neljä erilaista substituenttia. \n",
+    "pages": [],
+    "theme": "Chemistry",
+    "course": 0,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "416d6f72666973656c6c61"
+  },
+  {
+    "term": "Atseotrooppinen",
+    "failed": 0,
+    "explanation": "Atseotrooppinen seos on kanden tai useamman nesteen seos, joka höyrystyessään muodostaa höyryn, jonka koostumus on nesteseoksen koostumuksen kanssa identtinen: sekä neste- että kaasufaasissa seoksen eri aineiden suhteet ovat samat. \n",
+    "pages": [],
+    "theme": "Chemistry",
+    "course": 0,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "417473656f74726f6f7070696e656e"
+  },
+  {
+    "term": "Autoprotolyysi",
+    "failed": 0,
+    "explanation": "Autoprotolyysi on amfolyytin protoninsiirtoreaktio itsensä kanssa. \n",
+    "pages": [],
+    "theme": "Chemistry",
+    "course": 0,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4175746f70726f746f6c79797369"
+  },
+  {
+    "term": "Avaruusisomeria",
+    "failed": 0,
+    "explanation": "Avaruusisomeria on isomerian tyyppi, jossa kandella molekyylillä on muuten sama rakenne, mutta molekyylien avaruudellinen suuntautuminen on erilainen. Avogadron vakio kertoo yhdessä moolissa ainetta olevien rakennusosien lukumäärän. Dehydraus on reaktiotyyppi, jossa poistetaan vetyä. Denaturoituminen tarkoittaa proteiinin sekundääri-, tertiäärirakenteen ja kvaternaarirakenteen tuhoutumista. Dipeptidi on kanden aminohapon muodostama molekyyli. Dipoli tarkoittaa kahta tietyllä etäisyydellä toisistaan olevaa erimerkkistä, mutta yhtä suurta varausta. Molekyylien dipolit aiheutuvat elektronegatiivisuuseroista. Dipoli-dipolisidos on poolisten molekyylien erimerkkisien osittaisvarauksien välille muodostunut heikko sidos. Dispersiovoima on molekyylien välinen sidos, joka johtuu hetkellisistä dipoleista molekyylissä. Dynaaminen tasapainotila on tila, jossa sekä etenevä että palautuva reaktio tapahtuvat yhtä nopeasti. Eetterit ovat orgaaninen yhdisteryhmä, jonka funktionaalisena ryhmänä on happisilta R-O-R. Eksoterminen reaktio on reaktio, jossa vapautuu lämpöä. Ekvivalenttipiste on titrauksen piste, jossa titrattava aine on kulunut titrausreaktiossa kokonaan. Elektrolyysireaktio on hapetus-pelkistysreaktio, joka saadaan tapahtumaan sähkövirran avulla. \n",
+    "pages": [],
+    "theme": "Chemistry",
+    "course": 0,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "4176617275757369736f6d65726961"
+  },
+  {
+    "term": "Elektronegatiivisuus",
+    "failed": 0,
+    "explanation": "Elektronegatiivisuus on alkuaineen kyky vetää sidoselektroneja puoleensa. Eliminaatioreaktio on reaktio, jossa molekyylistä lohkeaa molekyyli. Emulsio on kanden toisiinsa liukenemattoman nesteen seos. Emäksinen liuos on liuos, jossa hydroksidi-ionikonsentraatio on suurempi kuin oksoniumionikonsentraatio. Emäs on aine, joka voi vastaanottaa protonin. Emäsvakio kuvaa heikon emäksen ja veden välisen protolyysireaktion tasapainotilaa. Enantiomeeri on termi isomeereille, jotka ovat toistensa peilikuvia (optinen isomeria). \n",
+    "pages": [],
+    "theme": "Chemistry",
+    "course": 0,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "456c656b74726f6e656761746969766973757573"
+  },
+  {
+    "term": "Endoterminen",
+    "failed": 0,
+    "explanation": "Endoterminen reaktio on reaktio, joka sitoo lämpöä. \n",
+    "pages": [],
+    "theme": "Chemistry",
+    "course": 0,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "456e646f7465726d696e656e"
+  },
+  {
+    "term": "Entalpia",
+    "failed": 0,
+    "explanation": "Entalpia aineen sisäenergia vakiopaineessa. Entsyymit ovat biologisia katalyyttejä. Esterit ovat orgaaninen yhdisteryhmä, jonka funktionaalisena ryhmänä on hiilihappikaksoissidoksen hiiliatomiin kiinnittynyt happisilta. \n",
+    "pages": [],
+    "theme": "Chemistry",
+    "course": 0,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "456e74616c706961"
+  },
+  {
+    "term": "Faradayn",
+    "failed": 0,
+    "explanation": "Faradayn vakio ilmoittaa yhden elektronimoolin varauksen. \n",
+    "pages": [],
+    "theme": "Chemistry",
+    "course": 0,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "466172616461796e"
+  },
+  {
+    "term": "Fenoli",
+    "failed": 0,
+    "explanation": "Fenoli on yhdiste, jossa —OH -ryhmä on liittynyt suoraan bentseenirenkaaseen. \n",
+    "pages": [],
+    "theme": "Chemistry",
+    "course": 0,
+    "difficulity": 0,
+    "audio": {
+      "exists": 0,
+      "filename": ""
+    },
+    "media": {
+      "picture": "",
+      "video": ""
+    },
+    "id": "46656e6f6c69"
+  }
+]

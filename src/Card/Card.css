@@ -1,0 +1,53 @@
+.card-container {
+  cursor: pointer;
+  height: 650px;
+  width: 650px;
+  perspective: 800px;
+  position: relative;
+  margin: auto;
+
+}
+
+.card {
+  height: 650px;
+  width: 650px;
+  position: absolute;
+  transform-style: preserve-3d;
+}
+
+
+.card .front {
+  height: 650px;
+  width: 650px;
+  backface-visibility: hidden;
+  position: absolute;
+  overflow: hidden;
+  text-align: center;
+  background-color: rgb(255 156 156);
+}
+
+.card .back {
+  font-size: 3px;
+  height: 650px;
+  width: 650px;
+  text-align: center;
+  transform: rotateY(180deg);
+}
+
+.eng{
+  color: #333;
+  font-size: 2.3em;
+  /* padding-top: 40%; */
+}
+
+.han{
+  color: #333;
+  font-size: 6.3em;
+  padding-top: 40%;
+}
+
+.pin{
+    color: rgba(200, 10, 10, 1);
+    font-size: 2.3em;
+    padding-top: 10%;
+}
